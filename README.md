@@ -46,3 +46,5 @@ java ChatApp client
 
 
   # Output:-
+
+![Image](https://github.com/user-attachments/assets/906ca736-2359-45e6-9b6f-01c13705ed25)
